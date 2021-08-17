@@ -1,1 +1,1 @@
-# NCR_Paddle
+基于Paddle复现的NCR模型
